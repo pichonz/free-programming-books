@@ -147,6 +147,8 @@
   * [Flask](#flask)
   * [Kivy](#kivy)
   * [Pandas](#pandas)
+  * [Tornado](#tornado)
+  * [IPython Notebook](#ipython)  
   * [Pyramid](#pyramid)
 * [QML](#qml)
 * [R](#r)
@@ -1356,6 +1358,9 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) *(Just fill the fields with any values)*
 * [The Node Beginner Book](http://nodebeginner.org)
 
+#### DC.js
+* [DC.js in IPython Notebooks](https://bitbucket.org/hrojas/dc.js-in-ipython-notebooks)
+
 
 ### Jenkins
 
@@ -1850,12 +1855,21 @@ For resources on Angular, Backbone, D3, Dojo, Ember, Express, jQuery, Knockout, 
 
 #### Pandas
 
-* [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.13.0)
+* [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.18.1)
 
 
 #### Pyramid
 
 * [Pyramid for humans](http://docs.pylonsproject.org/projects/pyramid-tutorials/en/latest/humans/index.html)
+
+
+#### Tornado
+
+* [Tornado Email Course](http://www.hedaro.com/tornado-tutorial)
+
+#### IPython Notebook
+
+* [IPython Notebook Tutorial](http://www.hedaro.com/ipython-notebook)
 
 
 ### QML
